@@ -1,10 +1,8 @@
 # 🧑🏽‍🏫 Prof. Dr. Leonilson K. S. Herval
 
----
-
 ## 💬 Sobre mim:
 
----
+
 
 Sou Marido, Pai, Professor e Pesquisador (apaixonado por todas as especificações). Gosto muito de programação e da área de Ciências de Dados e agregar isso com minha formação é mais satisfatório ainda. Tenho uma paixão pela área de Inovação e Empreendedorismo.
 
