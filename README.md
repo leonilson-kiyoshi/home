@@ -24,7 +24,8 @@ Sou Marido, Pai, Professor e Pesquisador (apaixonado por todas as especificaçõ
 
 - Atuou também na Invius Research como tutor, consultor acadêmico e estrategista no mercado financeiro em específico no mercado de opções (derivativos);
 
-- Atualmente é professor adjunto da UFLA campus de São Sebastião do Paraíso, onde trabalha com modelos físicos aplicados ao mercado financeiro e de forma extensionista com a educação empreendedora.
+- Atualmente é professor adjunto da UFLA campus de São Sebastião do Paraíso, onde trabalha com modelos físicos aplicados ao mercado financeiro, ciência de dados com aplicação de Machine Leaning e de forma extensionista com a educação empreendedora.
+- 
 - Está responsável pela gestão do Núcleo de Inovação e Tecnologia do campusde São Sebastião do Paraíso (NITESSP/UFLA).
 
 ### 🥷🏽Habilidades
